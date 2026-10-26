@@ -1,5 +1,7 @@
 # Site Doctor — read-only WordPress diagnosis for your AI
 
+[![Site Doctor — WordPress diagnosis MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/pro.syswp.sitedoctor/site-doctor-word-press-diagnosis/badges/score.svg)](https://glama.ai/mcp/connectors/pro.syswp.sitedoctor/site-doctor-word-press-diagnosis)
+
 > Connect your own AI (Claude, ChatGPT, Cursor, Codex…) to any WordPress site through a **100% read-only** MCP connector and ask what's wrong — security, performance, forms, logs, downtime — with evidence. The connector never writes to the site, and your AI never sees the site's credentials.
 
 **Website:** https://sitedoctor.syswp.pro · **Docs:** https://sitedoctor.syswp.pro/docs
